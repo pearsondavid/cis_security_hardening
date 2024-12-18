@@ -25,7 +25,7 @@
       "version_requirement": ">= 0.1.7 < 1.0.0"
     },
     {
-      "name": "puppet_augeasproviders_sysctl",
+      "name": "puppet-augeasproviders_sysctl",
       "version_requirement": ">= 3.3.0 < 4.0.0"
     },
     {
